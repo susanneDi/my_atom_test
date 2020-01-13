@@ -5,3 +5,5 @@ dat 1 : 18:50
 13_01: 1:33 und wieder hier
 13_01: 1:34 github change und dann noch einen in atom
 13_01: 1:37 so lösen ich den Konflikt
+
+Das ist nun der Text den ich schreibe, die erste Fassung
