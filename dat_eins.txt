@@ -12,3 +12,6 @@ wo ist mein test_branch?
 
 wie komme ich in meinen test_branch zurück
 und wie merge ich?
+
+so, der wechsel klappt nun noch mergen rausfinden
+und schon hat sich der Tag hier gelohnt
