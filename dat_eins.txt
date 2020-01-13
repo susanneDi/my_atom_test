@@ -3,4 +3,8 @@ dat 1 : 18:50
 13_01: 1:31 in github
 
 13_01: 1:33 und wieder hier
+<<<<<<< HEAD
 13_01: 1:35 github und nun atom
+=======
+13_01: 1:34 github change und dann noch einen in atom
+>>>>>>> 677ea8b87ad4a71dcec93865a9b822b3d8719b28
